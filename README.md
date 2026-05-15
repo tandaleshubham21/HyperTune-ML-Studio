@@ -2,134 +2,41 @@
 
 ### Interactive Machine Learning & Hyperparameter Tuning Platform
 
-HyperTuneML-Studio is a Streamlit-powered machine learning platform that enables users to explore, train, evaluate, and visualize multiple supervised learning algorithms on real-world datasets.  
+This repository contains an interactive machine learning web application built using Streamlit and Python. The platform enables users to apply multiple supervised learning algorithms on real-world datasets with hyperparameter tuning and visualization support.
 
-The platform focuses on:
-- 📊 Interactive Data Visualization
-- ⚙️ Hyperparameter Tuning
-- 🤖 Multiple ML Algorithms
-- 📈 Model Performance Evaluation
-- 🌐 Streamlit Deployment
-- 🧠 Real-world Dataset Analysis
+<br>
+
+<a href="https://YOUR-STREAMLIT-APP-LINK.streamlit.app/">
+<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+</a>
+
+<br><br>
+
+🔗 **Live Application:**  
+https://YOUR-STREAMLIT-APP-LINK.streamlit.app/
 
 ---
 
-## 🔥 Features
+## 🌟 Project Highlights
 
-✅ Interactive Machine Learning Dashboard  
-✅ Multiple Classification & Regression Algorithms  
-✅ Hyperparameter Tuning Support  
-✅ Real-Time Accuracy Evaluation  
-✅ Data Visualization using Matplotlib & Seaborn  
-✅ Support for Multiple Datasets  
-✅ Streamlit Web Application Deployment  
+- Interactive Machine Learning Dashboard
+- Hyperparameter Tuning Support
+- Classification & Regression Models
+- Multiple Real-world Datasets
+- Data Visualization using Matplotlib & Seaborn
+- Streamlit Cloud Deployment
+- User-Friendly Interface
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Core Programming Language |
-| Streamlit | Web Application Framework |
-| Scikit-Learn | Machine Learning Models |
-| Pandas | Data Processing |
-| NumPy | Numerical Computation |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
+- Python
+- Streamlit
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
-
-## 🤖 Machine Learning Algorithms
-
-### Supervised Learning Models
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Naive Bayes
-- Decision Tree
-- Random Forest
-- Linear Regression
-- Logistic Regression
-
----
-
-## 📂 Datasets Included
-
-- Iris Dataset
-- Breast Cancer Dataset
-- Wine Dataset
-- Digits Dataset
-- Diabetes Dataset
-- Titanic Dataset
-- Heart Disease Dataset
-- Car Evaluation Dataset
-- Salary Dataset
-- Naive Bayes Classification Dataset
-
----
-
-## 📁 Project Structure
-
-```bash
-HyperTuneML-Studio
-│
-├── Dataset
-├── Notebook
-├── Screenshots
-├── app.py
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
-
----
-
-## ▶️ Run Locally
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🌐 Deployment
-
-The project is deployed using Streamlit Cloud and can be accessed directly through the browser.
-
----
-
-## 📊 Key Highlights
-
-- Interactive ML model experimentation
-- Real-time visualization of predictions
-- Hyperparameter optimization
-- Beginner-friendly ML platform
-- Portfolio-ready deployment project
-
----
-
-## 👨‍💻 Author
-
-**Shubham  Tandale**  
-PGDM – Business Analytics
-
----
-
-## ⭐ Support
-
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_LINK_HERE)
-
-🔗 **Live Demo:**  
-YOUR_STREAMLIT_LINK_HERE
-
-
-
