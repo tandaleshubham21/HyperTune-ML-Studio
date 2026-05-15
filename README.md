@@ -125,9 +125,11 @@ PGDM – Business Analytics
 
 ## ⭐ Support
 
-If you found this project useful:
-- Give this repository a ⭐
-- Fork the repository
-- Share feedback & suggestions
 
----
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_LINK_HERE)
+
+🔗 **Live Demo:**  
+YOUR_STREAMLIT_LINK_HERE
+
+
+
